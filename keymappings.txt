@@ -1,0 +1,6 @@
+map <c-l> nextTab
+map <c-h> previousTab
+map <c-o> goBack
+map <c-i> goForward
+map H moveTabLeft
+map L moveTabRight
